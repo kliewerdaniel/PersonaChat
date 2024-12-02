@@ -13,3 +13,4 @@ PyPDF2
 langchain-community
 langchain-openai 
 langchain-chroma
+pypdf
