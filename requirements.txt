@@ -1,0 +1,15 @@
+openai
+ollama
+swarm
+autogen
+python-dotenv
+flask
+langchain 
+chromadb 
+pinecone-client 
+tiktoken
+sentence-transformers
+PyPDF2
+langchain-community
+langchain-openai 
+langchain-chroma
